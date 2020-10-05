@@ -1,6 +1,4 @@
-# coronavirus
-
-🚨 691012 cas de contamination par Corona virus jusqu'à la fin du 2020 ( Maroc )🚨
+# 🚨 691012 cas de contamination par Corona virus jusqu'à la fin du 2020 ( Maroc )🚨
 
 ## 🎯 Objectif : 
 prévision de la situation pandémique au niveau d'infection ( les nombres sont cumulatif )
